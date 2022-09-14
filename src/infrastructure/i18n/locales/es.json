@@ -1,0 +1,23 @@
+{
+  "translation": {
+    "Empresa": "Empresa",
+    "CIF/NIF": "CIF/NIF",
+    "Nombre": "Nombre",
+    "Email": "Email",
+    "Teléfono": "Teléfono",
+    "Contraseña": "Contraseña",
+    "Somos eco-friendly": "Somos eco-friendly",
+    "Precios justos": "Precios justos",
+    "Sin papeleo absurdo, sin impresión, somos 100% digitales": "Sin papeleo absurdo, sin impresión, somos 100% digitales",
+    "Todas nuestras ofertas serás aquellas que se ajusten a sus necesidades": "Todas nuestras ofertas serás aquellas que se ajusten a sus necesidades",
+    "Login": "Login",
+    "Registrese": "Registrese",
+    "Bienvenido": "Bienvenido",
+    "Por favor inicie sesión o registrese para continuar usando nuestra aplicación": "Por favor inicie sesión o registrese para continuar usando nuestra aplicación",
+    "Al continuar, acepta nuestros Términos y Políticas de privacidad": "Al continuar, acepta nuestros <bold>Términos</bold> y <bold>Políticas de privacidad</bold>",
+    "Recodar contraseña": "Recodar contraseña",
+    "¿No es miembro?. Registrese ahora": "¿No es miembro?. <bold>Registrese ahora</bold>",
+    "versión": "versión {{version}}",
+    "Vence en días": "Vence en {{days}} días"
+  }
+}
